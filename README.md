@@ -6,15 +6,15 @@
 
 Step1: Register yourself in our website
 
-[HACK2SKILL Website](https://hack2skill.com/hack/goc2) 
+[Hack2skill Website](https://hack2skill.com/hack/goc2) 
 
 Step2: Join our discord server
 
-[HACK2SKILL Discord Server](https://bit.ly/H2S-Discord)
+[Hack2skill Discord Server](https://bit.ly/H2S-Discord)
 
 Step3: Follow our github organization
 
-[HACK2SKILL GitHub Organization](https://github.com/hack2skill)
+[Hack2skill GitHub Organization](https://github.com/hack2skill)
 
 Step4: Read the guidelines
 ***
@@ -32,7 +32,7 @@ Step4: Read the guidelines
 
 ***
 
-Step5: Attend the AMA Session
+Step5: Attend the Inaugurations Session
 
 
 Step6: Be active in our discord server
