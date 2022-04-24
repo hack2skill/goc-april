@@ -4,9 +4,8 @@ using namespace std;
 int main() {
     int n,ans=0;
     cin>>n;
-    vector<int> v(5);
-    v[0]=1;
-    for (int i = 2; i <= N; i++) {
+    vector<int> v(5,1);
+    for (int i = 2; i <= n; i++) {
         for (int j = 3; j >= 0; j--)
             v[j] += v[j + 1];
     }
@@ -14,5 +13,5 @@ int main() {
         ans += c;
     cout<<ans<<endl;
     
-	return 0;
+    return 0;
 }
